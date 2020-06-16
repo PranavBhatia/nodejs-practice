@@ -1,0 +1,13 @@
+{
+  "name": "2.-basics",
+  "version": "1.0.0",
+  "description": "Node.js basics",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js",
+    "start-server": "node app.js"
+  },
+  "author": "Pranav Bhatia",
+  "license": "ISC"
+}
